@@ -6523,6 +6523,7 @@
     "BrandName": "LYRICA",
     "Strength": "20 MG/ML",
     "STRENGTH_MSR": 20,
+
     "STRENGTH_UNIT_TXT": "MG",
     "VOLUME_MSR": 1,
     "VOLUME_UNIT_TXT": "ML",
