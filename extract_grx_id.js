@@ -1,11 +1,12 @@
-const fetch = require('fetch-retry');
 const fs = require('fs');
+const fetch = require('node-fetch');
+const notifier = require('node-notifier');
 const generateUrl = require('./genUrl.js');
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://54.81.21.172:27017/rxwave_testing',{
+mongoose.connect('mongodb://54.81.21.172:27017/rxwave_testing', {
     useNewUrlParser: true,
     useUnifiedTopology: true
-});
+}).then(r => console.log("Connected to MongoDB"));
 const Schema = mongoose.Schema;
 const ObjectId = mongoose.ObjectId;
 const GoodRxIdSchema = new Schema({
@@ -30,14 +31,13 @@ function timeout(ms) {
 }
 
 async function test() {
-    let drugs = JSON.parse(fs.readFileSync('full_drug_list.json'));
+    let file = fs.readFileSync('full_drug_list.json');
+    let drugs = JSON.parse(file.toString());
     fs.truncateSync('grx_ids.json');
     console.log('id file cleared');
     let count = 1;
     let fails = [];
-    // let ids = [];
 
-    // let promiseChain = Promise.resolve();
     for (let drug of drugs) {
         const res = await fetchId(drug, count);
         console.log(count);
@@ -45,10 +45,7 @@ async function test() {
 
         if (res.drugName !== undefined) {
             let model = new GoodRxIdModel(res);
-            // console.log(model);
-            model.save(function(err, res) {
-                console.log(`Error: ${err}`);
-                // console.log(res);
+            await model.save(function(err, res) {
                 if (err) {
                     return console.log(err);
                 } else {
@@ -80,35 +77,50 @@ async function fetchId(drug, count) {
     await fetch(res.url, {
         method: 'get',
         headers: {
-            "Referer": "https://www.google.com/",
+            "Referer": "https://www.goodrx.com/",
             "Upgrade-Insecure-Requests": "1",
-            "Cookie": "goodrx-v2=ae0381ab4763e0de30e8c3e201a7ae3ffe2703d6L72rXzd91LTmni0JkBjS2Qbt+i1dSgah9qe5cgvkXO0GGuQxeCVp1LnXVH9HXJaJe8G9R4mR+GXYC8ribgTcJQzAKEL42FrUV6VuICrUc5OFk/Ucb/ganXk7GHg5qayGKCZSIuJXxdaEbs+Zpuy2eX5oCKFHboGZQu4A0/Bc8fKVZJLM9iFViUsshVT5U4jt79bCX99iGwelUEAosM9VuBLrpOTpDjH8c8VBjT5GWEwYt4PyUffoYghHvk99BDHFx6f8tMnjWLA0b1qreaFObGTOJYG5mOwk1dALPgTVZMfn62xx5Gdsh0aJQzNvt/XqquqvYhblgJ3GXa2BOf2HNAegLL59g0Da06HlChiphaQ6TH5L6zrfRn0iEyPFhhrEkIPqfSX6z7QNKdQmCk/pcV2uE4OmWO1SGFN/xYkyG9vv0zs31LJmTtCaAqJOWQZll+w=; grx_unique_id=610b6199cdd94d38bb8640586b13bc04; c=; kw=; gclid=; closedWalmartFluShot=true; _pxhd=e8aaf476a43332757480989ddc3aa5d6337c426317cd0466dba237cbca8abb07:f6c8c241-fbe7-11e9-b7d1-3f5eb470d34f; myrx_exp_ab_variant=experiment; csrf_token=e99e695676ae41c3ba5aa76f933a207c; ppa_exp_ab_variant=experiment",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0",
+            "Cookie": "csrf_token=7ee783ebc36e452eb7a6ba1eb94d6619; _pxhd=43262d68911141ef14d9fd56b7b8ea1f38a25fdb45529e55c73e7e70b1492cfb:9af60001-ff15-11e9-8a21-f9624b57fc46; myrx_exp_ab_variant=experiment; goodrx-v2=2bfd1f94fecc962afe60983e7e504d5ff34a951eQJuh8AMCfM7izbZ5molYttVO6iiksqCVkDmoQoThI5vz8M3pRVaYqj2JfF/FaUuts3SLQBzBUqiT0UD9l3irIo+ParqhT4W6msLKeym9iuDn3EZw38prg33HTWqjBsguqpWSGytqpluyWP6Iyqm3tYQ89xvsOz5rWJ5F285t7ez7d/WXeJrnNRd5QffT/tdexwKb+XTYNZ6n5KmcNWeBRnrcxgNmepjFH97ccw1zPXAV7n+LwMO9tbpgAepsiTyIbejhAtJP646Ifs52xvhrwM8r24YxgmRpgrYJUps99HBlVoY2qgY7hmqvrhJfZVxt47zrDw==; variantCookie=2; cto_lwid=7d5070ad-7c7d-425e-8b6f-303e2087726f; _fbp=fb.1.1572880389327.298292437; _pxvid=9af60001-ff15-11e9-8a21-f9624b57fc46; ki_t=1572880389531%3B1572880389531%3B1572880389531%3B1%3B1; ki_r=; _ga=GA1.2.780810564.1572880390; _gid=GA1.2.1472612913.1572880390; rsci_vid=bc5663d0-7102-0dee-26f7-b2d2cc07a7fa; _dc_gtm_UA-24914838-1=1; _gat_UA-24914838-1=1",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36",
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
-        },
-        retryOn: function(attempt, error, response) {
-            if (error !== null || response.status == 403) {
-                console.log(`HTTP ${response.status}, retrying in 60s...`);
-            }
-        },
-        retryDelay: 60000,
-        retries: 1
-    }).then((response) => response.text())
-    .then((text) => extractId(text))
+        }
+    }).then((response) => {
+        if (response.status === 403) {
+            console.log(response.status, 'Waiting 30s...');
+            notifier.notify({
+                title: "Drug request failed",
+                message: `Request blocked for ${drug.BrandName}, retrying in 60s`
+            });
+            let fix = '';
+            timeout(60000).then(async () => {
+                await fetchId(drug, count).then((res) => {
+                    fix = res;
+                    console.log(fix);
+                }).catch((error) => console.log(error));
+            });
+        } else {
+            return response.text();
+        }
+    })
+    .then((text) => {
+        if (!text) {
+            return null;
+        } else {
+            return extractId(text)
+        }
+    })
     .then((id) => {
         response = id;
-        // console.log("Waiting 7.5s...")
     })
     .catch((error) => console.log(error));
-    let t = 7500;
-    if (count % 99 === 0) {
+    let t = 20000;
+    if (count % 30 === 0) {
         t = 60000;
     }
 
-    console.log(`Waiting ${t / 1000.0}s...`)
+    console.log(`Waiting ${t / 1000.0}s...`);
     return timeout(t).then(() => {
         model.goodRxId = response;
-        // console.log(model);
+        console.log(model);
         return model;
     });
 }
@@ -118,9 +130,7 @@ function extractId(text) {
     const end_index = start_index + text.substring(start_index).indexOf("&");
 
     if (end_index - start_index < 15) {
-        let id = text.substring(start_index, end_index);
-        // console.log(id);
-        return id;
+        return text.substring(start_index, end_index);
     } else {
         return null;
     }
