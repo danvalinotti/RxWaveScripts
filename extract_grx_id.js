@@ -30,22 +30,53 @@ function timeout(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-async function test() {
-    let file = fs.readFileSync('full_drug_list.json');
+async function testfix() {
+    let file = fs.readFileSync('nulls.json');
     let drugs = JSON.parse(file.toString());
-    fs.truncateSync('grx_ids.json');
-    console.log('id file cleared');
     let count = 1;
     let fails = [];
 
-    for (let drug of drugs.slice(295)) {
+    for (let drug of drugs) {
+        const res = await fetchNulls(drug.url, count);
+        console.log(count);
+        count += 1;
+
+        if (res === null) {
+            fails.push(drug);
+        } else {
+            await GoodRxIdModel.updateOne({_id: drug._id}, {goodRxId: res}, function(err) {
+                if (err) console.log(err);
+                console.log(`Updated ${drug.drugName}`)
+            });
+        }
+    }
+
+    try {
+        const writeText = JSON.stringify(fails);
+        fs.writeFile('final_nulls.json', writeText, function (err) {
+            if (err) console.log(err);
+            console.log("Write complete");
+            process.exit();
+        });
+    } catch (error) {
+        console.log(error);
+    }
+}
+
+async function test() {
+    let file = fs.readFileSync('exceptions.json');
+    let drugs = JSON.parse(file.toString());
+    let count = 1;
+    let fails = [];
+
+    for (let drug of drugs) {
         const res = await fetchId(drug, count);
         console.log(count);
         count += 1;
 
         if (res.drugName !== undefined) {
             let model = new GoodRxIdModel(res);
-            await model.save(function(err) {
+            await model.save(function (err) {
                 if (err) {
                     return console.log(err);
                 } else {
@@ -60,7 +91,7 @@ async function test() {
 
     try {
         const writeText = JSON.stringify(fails);
-        fs.writeFile('grx_ids.json', writeText, function(err) {
+        fs.writeFile('final_exceptions.json', writeText, function (err) {
             if (err) console.log(err);
             console.log("Write complete");
             process.exit();
@@ -68,6 +99,54 @@ async function test() {
     } catch (error) {
         console.log(error);
     }
+}
+
+async function fetchNulls(url, count) {
+    let response;
+    console.log(url);
+    let i = count % 7;
+    await fetch(url, {
+        method: 'get',
+        headers: {
+            "Referer": "https://www.goodrx.com/",
+            "Upgrade-Insecure-Requests": "1",
+            "Cookie": cookies[i],
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+        }
+    }).then((response) => {
+        if (response.status !== 403) {
+            return response.text();
+        } else {
+            console.log(response.status, 'Waiting 30s...');
+            notifier.notify({
+                title: "Drug request failed",
+                message: `Request blocked, retrying in 60s`
+            });
+            return null;
+        }
+    })
+        .then((text) => {
+            if (!text) {
+                return null;
+            } else {
+                return extractId(text)
+            }
+        })
+        .then((id) => {
+            response = id;
+        })
+        .catch((error) => console.log(error));
+    let t = 15000;
+    if (count % 30 === 0) {
+        t = 60000;
+    }
+
+    console.log(`Waiting ${t / 1000.0}s...`);
+    return timeout(t).then(() => {
+        console.log(response);
+        return response;
+    });
 }
 
 async function fetchId(drug, count) {
@@ -102,17 +181,17 @@ async function fetchId(drug, count) {
             return response.text();
         }
     })
-    .then((text) => {
-        if (!text) {
-            return null;
-        } else {
-            return extractId(text)
-        }
-    })
-    .then((id) => {
-        response = id;
-    })
-    .catch((error) => console.log(error));
+        .then((text) => {
+            if (!text) {
+                return null;
+            } else {
+                return extractId(text)
+            }
+        })
+        .then((id) => {
+            response = id;
+        })
+        .catch((error) => console.log(error));
     let t = 15000;
     if (count % 30 === 0) {
         t = 60000;
@@ -156,4 +235,4 @@ const cookies = [
     'goodrx-v2=7c7f018629418f0eae9c03104aa5b897a30f469datuKeIfjuVGdVkviY8phjZoSvXRrAcU8iz/SEqFt92NbcEHdEPNQa0vR3gci/h97b0FeWG64wKf+s8HBENtdgzl57Qu/zB+bCFcYEe+QncXfnKpHepoB29xSCMqzgskUeKFfpbcT/F17c3vSL0P0rdxdOY9b0WIng8iUn6KHIdfM+Gg80rp2gv6TR3u348aWUIunnvi+9poVw55HEdU/qMSN+ByN4SMn7RG4reaz6G+aY2gk6RaZ9IrO4ACNhbhVGkozXQD7R11dHsXHbBCahcgVqx0ejZ2zDHYRTNi9W2LfEqCgRT8fryc0t9VrM+h18LHnoEMpL2hID3Nrw9gTyZT1BSs1Ozgc97ZxJbCkuI81yPE890PzfoSbY1J9zpiLuZbyKWT1MTmvndpMYUJsGbBF/jyI7JH1PNLqQnVTjMqx9f4/UGVPule1VDiNyKDghBI0QPfKrFjCbdyDkR0+NAkk27jzKPWdcE5rniM4ttMtIvnM3arUKJNPWY/hZ+UUU6u5Z9l8ZRr03Q69KYDSw1LgbWtbhpFRCTTXUThwCuVREy8dZfl7ikwP2gN+KAtLEdmnAj9piEDJzCB82qPXx5T6nFmk4GyR+tJUm2zsXeut85IwWRNmP3USSFc5XolAkByFJh6/eC76/lee1FRohwNn81gj5TMRz6g7sVkTMBwUlybAfi2ky5IbEdw0uvJZZz7X7FxAUf7cRf0Vb85m24RXtypfJgbe2ajNJquiDX2wn23ENaZekyqOyXTUzSe8pP4E6PXQPugS9PptJ+/zEpOTBq0FMKYBvbuU7uElZ6/LuWAQVLGKBnP/jdR/SXjbvSJMAg2kfSgMrTkomardE18Bj1F4+JbWpnGXTOF9cuW+5fAdWYZRg/fxnyBQxDNELHfGdfwecuHg1VJuorWqnYM=; grx_unique_id=610b6199cdd94d38bb8640586b13bc04; c=; kw=; gclid=; closedWalmartFluShot=true; currentLocation={%22city%22:%22Keasbey%22%2C%22state%22:%22NJ%22%2C%22coords%22:{%22latitude%22:40.5143%2C%22longitude%22:-74.30215}%2C%22zip%22:%2208832%22%2C%22source%22:%22session%22%2C%22full_state%22:%22New%20Jersey%22%2C%22formatted_address%22:%22Keasbey%2C%20NJ%22%2C%22distance%22:6}; csrf_token=42fcb0bf1418483ab91c1f28ee6bff2b; _pxhd=96e40567f06a79b4fa1b5796c08483351a3a54834448b8100adc7802dfce52e7:02d25221-ff2d-11e9-b9ec-af91f9619bc2; ppa_exp_ab_variant=experiment; myrx_exp_ab_variant=experiment'
 ];
 
-test();
+const promise = testfix();

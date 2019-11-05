@@ -153,9 +153,19 @@ function generateUrl(drug) {
           } else {
             dosage = drug.STRENGTH_MSR + drug.STRENGTH_UNIT_TXT.toLowerCase();
           }
-        } else if (end === "TABLET") {
+        } else if (end === "TABLET" || end === "TAB") {
           form = "tablet";
-          if (drug.Strength.includes("-")) {
+          if (name === "jentadueto" || name === "kombiglyze-xr") {
+            dosage = drug.Strength.toLowerCase();
+            if (name === "kombiglyze") {
+              quantity = 30;
+            } else {
+              quantity = 60;
+            }
+          } else if (name === "xigduo-xr") {
+            quantity = drug.PACKAGE_SIZE_QTY;
+            dosage = drug.Strength.toLowerCase();
+          } else if (drug.Strength.includes("-")) {
             dosage = drug.Strength.replace("-", "mg-").toLowerCase();
           } else {
             dosage = drug.STRENGTH_MSR + drug.STRENGTH_UNIT_TXT.toLowerCase();
@@ -196,6 +206,10 @@ function generateUrl(drug) {
         } else if (end === "0.75%") {
           form = "bottle-of-lotion";
           dosage = drug.PACKAGE_SIZE_QTY + "ml-of-" + drug.Strength + "25";
+        } else if (end === "SOLUTION") {
+          form = "oral-solution";
+          quantity = 300;
+          dosage = drug.Strength.replace(" ", "").replace("/", "-");
         } break;
       case "BOX":
         let nameSplit = drug.BrandName.split(" ");
@@ -291,7 +305,7 @@ function generateUrl(drug) {
         name = drug.BrandName.replace("-");
         form = "kit";
         quantity = 1;
-        dosage = "50g-of-" + drug.Strength.split("-")[0] + `25-${drugSplit[2].toLowerCase}`;
+        dosage = "50g-of-" + drug.Strength.split("-")[0] + `25-${drugSplit[2].toLowerCase()}`;
         break;
       case "PF APPLI":
         let nameArr = drug.BrandName.toLowerCase().split(" ");
@@ -440,6 +454,8 @@ function generateUrl(drug) {
     goodRxId: '',
     url: response
   };
+
+  console.log(url);
 
   // Check for empty values (error);
   if (name === "" || form === "" || dosage === "" || quantity === "") {
