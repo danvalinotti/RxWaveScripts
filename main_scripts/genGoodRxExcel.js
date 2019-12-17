@@ -62,57 +62,57 @@ function createDoc(data) {
   ws.cell(1,2)
     .string('DrugName')
     .style(style);
-  // ws.cell(1,3)
-  //   .string('NDC')
-  //   .style(style);
-  // ws.cell(1,4)
-  //   .string('GoodRxID')
-  //   .style(style);
-  // ws.cell(1,5)
-  //   .string('DosageStrength')
-  //   .style(style);
-  // ws.cell(1,6)
-  //   .string('DosageNum')
-  //   .style(style);
-  // ws.cell(1,7)
-  //   .string('DosageUnit')
-  //   .style(style);
-  // ws.cell(1,8)
-  //   .string('VolumeNum')
-  //   .style(style);
-  // ws.cell(1,9)
-  //   .string('VolumeUnit')
-  //   .style(style);
-  // ws.cell(1,10)
-  //   .string('Quantity')
-  //   .style(style);
-  // ws.cell(1,11)
-  //   .string('URL')
-  //   .style(style);
+  ws.cell(1,3)
+    .string('NDC')
+    .style(style);
+  ws.cell(1,4)
+    .string('GoodRxID')
+    .style(style);
+  ws.cell(1,5)
+    .string('DosageStrength')
+    .style(style);
+  ws.cell(1,6)
+    .string('DosageNum')
+    .style(style);
+  ws.cell(1,7)
+    .string('DosageUnit')
+    .style(style);
+  ws.cell(1,8)
+    .string('VolumeNum')
+    .style(style);
+  ws.cell(1,9)
+    .string('VolumeUnit')
+    .style(style);
+  ws.cell(1,10)
+    .string('Quantity')
+    .style(style);
+  ws.cell(1,11)
+    .string('URL')
+    .style(style);
 
   for (let i = 0; i < data.length; i++) {
     ws.cell(i+2, 1)
       .string(data[i].drugForm);
     ws.cell(i+2, 2)
       .string(data[i].drugName);
-    // ws.cell(i+2, 3)
-    //   .string(data[i].ndc);
-    // ws.cell(i+2, 4)
-    //   .string(data[i].goodRxId + "");
-    // ws.cell(i+2, 5)
-    //   .string(data[i].dosageStrength);
-    // ws.cell(i+2, 6)
-    //   .string(data[i].dosageStrengthNum + "");
-    // ws.cell(i+2, 7)
-    //   .string(data[i].dosageStrengthUnit);
-    // ws.cell(i+2, 8)
-    //   .string(data[i].volumeNum + "");
-    // ws.cell(i+2, 9)
-    //   .string(data[i].volumeUnit);
-    // ws.cell(i+2, 10)
-    //   .string(data[i].quantity + "");
-    // ws.cell(i+2, 11)
-    //   .string(data[i].url);
+    ws.cell(i+2, 3)
+      .string(data[i].ndc);
+    ws.cell(i+2, 4)
+      .string(data[i].goodRxId + "");
+    ws.cell(i+2, 5)
+      .string(data[i].dosageStrength);
+    ws.cell(i+2, 6)
+      .string(data[i].dosageStrengthNum + "");
+    ws.cell(i+2, 7)
+      .string(data[i].dosageStrengthUnit);
+    ws.cell(i+2, 8)
+      .string(data[i].volumeNum + "");
+    ws.cell(i+2, 9)
+      .string(data[i].volumeUnit);
+    ws.cell(i+2, 10)
+      .string(data[i].quantity + "");
+    ws.cell(i+2, 11)
+      .string(data[i].url);
   }
 
   return wb;

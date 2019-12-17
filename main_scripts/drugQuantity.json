@@ -1,0 +1,3889 @@
+[{
+  "Drug Name": "ABSORICA 10 MG CAPSULE",
+  "REPACKAGER_IND": "N",
+  "PRIVATE_LABELER_IND": "N",
+  "MCI": "ACNE",
+  "Manufacturer": "RANBAXY/SUN PHA                    ",
+  "MostCommonQty": 60
+},
+  {
+    "Drug Name": "ABSORICA 10 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ABSORICA 20 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ABSORICA 20 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ABSORICA 25 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ABSORICA 25 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ABSORICA 30 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ABSORICA 30 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ABSORICA 35 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ABSORICA 35 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ABSORICA 40 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ABSORICA 40 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ACCU-CHEK FASTCLIX LANCET DRUM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ROCHE DIAGNOSTI                    ",
+    "MostCommonQty": 102
+  },
+  {
+    "Drug Name": "ACCU-CHEK GUIDE TEST STRIP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ROCHE DIAGNOSTI                    ",
+    "MostCommonQty": 100
+  },
+  {
+    "Drug Name": "ACCU-CHEK GUIDE TEST STRIP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ROCHE DIAGNOSTI                    ",
+    "MostCommonQty": 50
+  },
+  {
+    "Drug Name": "ADVAIR HFA 115-21 MCG INHALER",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 12
+  },
+  {
+    "Drug Name": "ADVAIR HFA 230-21 MCG INHALER",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 12
+  },
+  {
+    "Drug Name": "ADVAIR HFA 45-21 MCG INHALER",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 12
+  },
+  {
+    "Drug Name": "AIRDUO RESPICLICK 113-14 MCG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "TEVA SPECIALTY                     ",
+    "MostCommonQty": 1
+  },
+  {
+    "Drug Name": "AIRDUO RESPICLICK 232-14 MCG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "TEVA SPECIALTY                     ",
+    "MostCommonQty": 1
+  },
+  {
+    "Drug Name": "AIRDUO RESPICLICK 55-14 MCG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "TEVA SPECIALTY                     ",
+    "MostCommonQty": 1
+  },
+  {
+    "Drug Name": "ALA-QUIN 3-0.5% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN INFECTIONS",
+    "Manufacturer": "CROWN LABORATOR                    ",
+    "MostCommonQty": 28.4
+  },
+  {
+    "Drug Name": "ALA-QUIN 3-0.5% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN INFECTIONS",
+    "Manufacturer": "CROWN LABORATOR                    ",
+    "MostCommonQty": 80
+  },
+  {
+    "Drug Name": "ALA-SCALP 2% LOTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "CROWN LABORATOR                    ",
+    "MostCommonQty": 29.6
+  },
+  {
+    "Drug Name": "AMITIZA 24 MCG CAPSULES",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GI DISORDERS",
+    "Manufacturer": "TAKEDA PHARMACE                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "AMITIZA 8 MCG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GI DISORDERS",
+    "Manufacturer": "TAKEDA PHARMACE                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ANORO ELLIPTA 62.5-25 MCG INH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "COPD",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "APIDRA 100 UNITS/ML VIAL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "SANOFI-AVENTIS                     ",
+    "MostCommonQty": 10
+  },
+  {
+    "Drug Name": "APIDRA SOLOSTAR 100 UNITS/ML",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "SANOFI-AVENTIS                     ",
+    "MostCommonQty": 15
+  },
+  {
+    "Drug Name": "ARNUITY ELLIPTA 100 MCG INH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "ARNUITY ELLIPTA 200 MCG INH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "ARNUITY ELLIPTA 50 MCG INH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "BASAGLAR 100 UNIT/ML KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 15
+  },
+  {
+    "Drug Name": "BASAGLAR 100 UNIT/ML KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 15
+  },
+  {
+    "Drug Name": "BENZACLIN GEL 50G PUMP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "VALEANT/BAUSCH                     ",
+    "MostCommonQty": 50
+  },
+  {
+    "Drug Name": "BENZACLIN GEL 35G PUMP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "VALEANT/BAUSCH                     ",
+    "MostCommonQty": 35
+  },
+  {
+    "Drug Name": "BENZACLIN GEL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "VALEANT/BAUSCH                     ",
+    "MostCommonQty": 25
+  },
+  {
+    "Drug Name": "BEYAZ 28 TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "CONTRACEPTIVES",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "BEYAZ 28 TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "CONTRACEPTIVES",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "BONJESTA ER 20-20 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "NAUSEA/VOMITING",
+    "Manufacturer": "DUCHESNAY USA,                     ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "BREO ELLIPTA 100-25 MCG INH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "BREO ELLIPTA 200-25 MCG INH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "BROMSITE 0.075% EYE DROPS",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "OPHTHALMIC CONDITIONS",
+    "Manufacturer": "SUN PHARMACEUTI                    ",
+    "MostCommonQty": 5
+  },
+  {
+    "Drug Name": "BYDUREON 2 MG VIAL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "BYDUREON BCISE 2 MG AUTOINJECT",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 3.4
+  },
+  {
+    "Drug Name": "BYDUREON 2 MG PEN INJECT",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": "N/A"
+  },
+  {
+    "Drug Name": "BYDUREON 2 MG PEN INJECT",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 1
+  },
+  {
+    "Drug Name": "CADUET 10 MG-10 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD PRESS/HEART DISEASE",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CADUET 10 MG-20 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD PRESS/HEART DISEASE",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CADUET 10 MG-40 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD PRESS/HEART DISEASE",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CADUET 10 MG-80 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD PRESS/HEART DISEASE",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CADUET 5 MG-10 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD PRESS/HEART DISEASE",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CADUET 5 MG-20 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD PRESS/HEART DISEASE",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CADUET 5 MG-40 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD PRESS/HEART DISEASE",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CADUET 5 MG-80 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD PRESS/HEART DISEASE",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CAPEX SHAMPOO",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 120
+  },
+  {
+    "Drug Name": "CELEBREX 100 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CELEBREX 100 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CELEBREX 100 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CELEBREX 200 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CELEBREX 200 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CELEBREX 200 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CELEBREX 400 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CELEBREX 400 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CELEBREX 50 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CEQUA 0.09% SOLUTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "OPHTHALMIC CONDITIONS",
+    "Manufacturer": "SUN PHARMA GLOB                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "CITRANATAL 90 DHA COMBO PACK",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "VITAMINS AND MINERALS",
+    "Manufacturer": "MISSION PHARM.                     ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "CITRANATAL ASSURE COMBO PACK",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "VITAMINS AND MINERALS",
+    "Manufacturer": "MISSION PHARM.                     ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "CITRANATAL B-CALM COMBO PACK",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "VITAMINS AND MINERALS",
+    "Manufacturer": "MISSION PHARM.                     ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "CITRANATAL BLOOM TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "VITAMINS AND MINERALS",
+    "Manufacturer": "MISSION PHARM.                     ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CITRANATAL DHA PACK",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "VITAMINS AND MINERALS",
+    "Manufacturer": "MISSION PHARM.                     ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "CITRANATAL HARMONY CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "VITAMINS AND MINERALS",
+    "Manufacturer": "MISSION PHARM.                     ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CITRANATAL RX TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "VITAMINS AND MINERALS",
+    "Manufacturer": "MISSION PHARM.                     ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "CLIMARA 0.025 MG/DAY PATCH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "CLIMARA 0.0375 MG/DAY PATCH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "CLIMARA 0.075 MG/DAY PATCH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "CLIMARA 0.05 MG/DAY PATCH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "CLIMARA 0.05 MG/DAY PATCH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "CLIMARA 0.06 MG/DAY PATCH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "CLIMARA 0.1 MG/DAY PATCH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "CLIMARA 0.1 MG/DAY PATCH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "CLOBEX 0.05% SHAMPOO",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 118
+  },
+  {
+    "Drug Name": "CLOBEX 0.05% SPRAY",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 59
+  },
+  {
+    "Drug Name": "CLOBEX 0.05% SPRAY",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 125
+  },
+  {
+    "Drug Name": "CLOBEX 0.05% TOPICAL LOTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 59
+  },
+  {
+    "Drug Name": "CLOBEX 0.05% TOPICAL LOTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 118
+  },
+  {
+    "Drug Name": "COLCRYS 0.6 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GOUT",
+    "Manufacturer": "TAKEDA PHARMACE                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "COLCRYS 0.6 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GOUT",
+    "Manufacturer": "TAKEDA PHARMACE                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "COMBIVENT RESPIMAT 20-100 MCG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "COPD",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "CONTRAVE ER 8-90 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "WEIGHT LOSS",
+    "Manufacturer": "NALPROPION PHAR                    ",
+    "MostCommonQty": 120
+  },
+  {
+    "Drug Name": "CRESTOR 10 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CRESTOR 10 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CRESTOR 20 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CRESTOR 20 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CRESTOR 40 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "CRESTOR 5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "DERMASORB HC 2% COMPLETE KIT",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "CROWN LABORATOR                    ",
+    "MostCommonQty": 295.8
+  },
+  {
+    "Drug Name": "DERMASORB TA 0.1% COMPLETE KIT",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "CROWN LABORATOR                    ",
+    "MostCommonQty": 340.4
+  },
+  {
+    "Drug Name": "DESOWEN 0.05% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "DESOWEN 0.05% LOTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 118
+  },
+  {
+    "Drug Name": "DESOWEN 0.05% LOTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 59
+  },
+  {
+    "Drug Name": "DEXILANT DR 30 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "TAKEDA PHARMACE                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "DEXILANT DR 60 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "TAKEDA PHARMACE                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "DEXILANT DR 60 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "TAKEDA PHARMACE                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "DICLEGIS DR 10-10 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "NAUSEA/VOMITING",
+    "Manufacturer": "DUCHESNAY USA,                     ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "DIFFERIN 0.1% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 45
+  },
+  {
+    "Drug Name": "DIFFERIN 0.1% LOTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 59
+  },
+  {
+    "Drug Name": "DIFFERIN 0.3% GEL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 45
+  },
+  {
+    "Drug Name": "DIFFERIN 0.3% GEL PUMP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 45
+  },
+  {
+    "Drug Name": "DILANTIN 100 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SEIZURES",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "DILANTIN 100 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SEIZURES",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "DILANTIN 100 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SEIZURES",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "DILANTIN 30 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SEIZURES",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "DILANTIN 50 MG INFATAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SEIZURES",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "DILANTIN 50 MG INFATAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SEIZURES",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "DUAVEE 0.45-20 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "DYANAVEL XR 2.5 MG/ML SUSP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "TRIS PHARMA INC                    ",
+    "MostCommonQty": "N/A"
+  },
+  {
+    "Drug Name": "EFUDEX 5% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "VALEANT/BAUSCH                     ",
+    "MostCommonQty": 40
+  },
+  {
+    "Drug Name": "EMGALITY 120 MG/ML PEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "MIGRAINE HEADACHES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 1
+  },
+  {
+    "Drug Name": "EMGALITY 120 MG/ML PEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "MIGRAINE HEADACHES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 1
+  },
+  {
+    "Drug Name": "EMGALITY 120 MG/ML SYRINGE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "MIGRAINE HEADACHES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 1
+  },
+  {
+    "Drug Name": "EMGALITY 120 MG/ML SYRINGE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "MIGRAINE HEADACHES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 1
+  },
+  {
+    "Drug Name": "ENTERAGAM POWDER PACKET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ALTERNATIVE THERAPIES",
+    "Manufacturer": "ENTERA HEALTH,                     ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "EPIDUO 0.1-2.5% GEL PUMP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 45
+  },
+  {
+    "Drug Name": "EPIDUO FORTE 0.3-2.5% GEL PUMP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "EPIDUO FORTE 0.3-2.5% GEL PUMP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ACNE",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 45
+  },
+  {
+    "Drug Name": "ERTACZO 2% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN INFECTIONS",
+    "Manufacturer": "VALEANT/BAUSCH                     ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ESTROGEL 0.06% GEL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "ASCEND THERAPEU                    ",
+    "MostCommonQty": 50
+  },
+  {
+    "Drug Name": "EURAX 10% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "LICE TREATMENT",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "EURAX 10% LOTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "LICE TREATMENT",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "EURAX 10% LOTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "LICE TREATMENT",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 454
+  },
+  {
+    "Drug Name": "FARXIGA 10 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "FARXIGA 5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "FLECTOR 1.3% PATCH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "FLECTOR 1.3% PATCH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "FLOVENT 100 MCG DISKUS",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "FLOVENT 250 MCG DISKUS",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "FLOVENT 50 MCG DISKUS",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "FLOVENT HFA 110 MCG INHALER",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 12
+  },
+  {
+    "Drug Name": "FLOVENT HFA 220 MCG INHALER",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 12
+  },
+  {
+    "Drug Name": "FLOVENT HFA 44 MCG INHALER",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 10.6
+  },
+  {
+    "Drug Name": "GENOTROPIN MINIQUICK 0.2 MG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "GENOTROPIN MINIQUICK 0.4 MG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "GENOTROPIN MINIQUICK 0.6 MG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "GENOTROPIN MINIQUICK 0.8 MG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "GENOTROPIN MINIQUICK 1.2 MG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "GENOTROPIN MINIQUICK 1.4 MG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "GENOTROPIN MINIQUICK 1.6 MG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "GENOTROPIN MINIQUICK 1.8 MG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "GENOTROPIN 12 MG CARTRIDGE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "GENOTROPIN MINIQUICK 1 MG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "GENOTROPIN MINIQUICK 2 MG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "GENOTROPIN 5 MG CARTRIDGE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "GLYXAMBI 10 MG-5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "GLYXAMBI 10 MG-5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "GLYXAMBI 10 MG-5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "GLYXAMBI 25 MG-5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "GLYXAMBI 25 MG-5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "GLYXAMBI 25 MG-5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "GRASTEK 2,800 BAU SL TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ALLERGIES",
+    "Manufacturer": "ALK-ABELLO, INC                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "GRASTEK 2,800 BAU SL TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ALLERGIES",
+    "Manufacturer": "ALK-ABELLO, INC                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "HALOG 0.1% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "SUN PHARMACEUTI                    ",
+    "MostCommonQty": 240
+  },
+  {
+    "Drug Name": "HALOG 0.1% OINTMENT",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "SUN PHARMACEUTI                    ",
+    "MostCommonQty": 240
+  },
+  {
+    "Drug Name": "HALOG 0.1% OINTMENT",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "HALOG 0.1% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "HALOG 0.1% OINTMENT",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "HALOG 0.1% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "HALOG 0.1% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 216
+  },
+  {
+    "Drug Name": "HUMALOG 100 UNIT/ML VIAL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 10
+  },
+  {
+    "Drug Name": "HUMALOG JR 100 UNIT/ML KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 15
+  },
+  {
+    "Drug Name": "HUMALOG JR 100 UNIT/ML KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 15
+  },
+  {
+    "Drug Name": "HUMALOG 100 UNITS/ML KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "HUMALOG 100 UNITS/ML KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 15
+  },
+  {
+    "Drug Name": "HUMALOG 200 UNITS/ML KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "HUMALOG 200 UNITS/ML KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "HUMALOG MIX 50-50 VIAL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 10
+  },
+  {
+    "Drug Name": "HUMALOG MIX 50-50 KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 15
+  },
+  {
+    "Drug Name": "HUMALOG MIX 50-50 KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 15
+  },
+  {
+    "Drug Name": "HUMALOG MIX 75-25 VIAL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 10
+  },
+  {
+    "Drug Name": "HUMALOG MIX 75-25 KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 15
+  },
+  {
+    "Drug Name": "HUMALOG MIX 75-25 KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 15
+  },
+  {
+    "Drug Name": "HUMATROPE 12 MG CARTRIDGE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 1
+  },
+  {
+    "Drug Name": "HUMATROPE 24 MG CARTRIDGE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 1
+  },
+  {
+    "Drug Name": "HUMATROPE 5 MG VIAL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 2
+  },
+  {
+    "Drug Name": "HUMATROPE 5 MG VIAL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 2
+  },
+  {
+    "Drug Name": "HUMATROPE 6 MG CARTRIDGE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GROWTH DEFICIENCY",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 1
+  },
+  {
+    "Drug Name": "HUMULIN 70/30 KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 15
+  },
+  {
+    "Drug Name": "HUMULIN 70/30 KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 3
+  },
+  {
+    "Drug Name": "HUMULIN 70-30 VIAL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 10
+  },
+  {
+    "Drug Name": "HUMULIN N 100 UNIT/ML VIAL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 10
+  },
+  {
+    "Drug Name": "HUMULIN N 100 UNITS/ML KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 15
+  },
+  {
+    "Drug Name": "HUMULIN N 100 UNITS/ML KWIKPEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 3
+  },
+  {
+    "Drug Name": "HUMULIN R 100 UNIT/ML VIAL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 10
+  },
+  {
+    "Drug Name": "IMPOYZ 0.025% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "ENCORE DERMATOL                    ",
+    "MostCommonQty": 100
+  },
+  {
+    "Drug Name": "IMPOYZ 0.025% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "ENCORE DERMATOL                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "INCRUSE ELLIPTA 62.5 MCG INH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "COPD",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "JARDIANCE 10 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "JARDIANCE 10 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "JARDIANCE 10 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "JARDIANCE 25 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "JARDIANCE 25 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "JARDIANCE 25 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "JENTADUETO 2.5 MG-1000 MG TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "JENTADUETO 2.5 MG-1000 MG TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "JENTADUETO 2.5 MG-500 MG TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "JENTADUETO 2.5 MG-500 MG TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "JENTADUETO 2.5 MG-850 MG TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "JENTADUETO 2.5 MG-850 MG TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "JENTADUETO XR 2.5 MG-1,000 MG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "JENTADUETO XR 2.5 MG-1,000 MG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "JENTADUETO XR 5 MG-1,000 MG TB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "JENTADUETO XR 5 MG-1,000 MG TB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "KOMBIGLYZE XR 2.5-1,000 MG TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "KOMBIGLYZE XR 5-500 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "KOMBIGLYZE XR 5-1,000 MG TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "LANTUS 100 UNIT/ML VIAL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "SANOFI-AVENTIS                     ",
+    "MostCommonQty": 10
+  },
+  {
+    "Drug Name": "LANTUS SOLOSTAR 100 UNIT/ML",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "SANOFI-AVENTIS                     ",
+    "MostCommonQty": 15
+  },
+  {
+    "Drug Name": "LEVOXYL 100 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 100 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 112 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 112 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 125 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 125 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 137 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 137 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 150 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 150 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 175 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 175 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 200 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 200 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 25 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 25 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 50 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 50 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 75 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 75 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 88 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LEVOXYL 88 MCG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "THYROID DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 90
+  },
+  {
+    "Drug Name": "LOCOID 0.1% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "VALEANT/BAUSCH                     ",
+    "MostCommonQty": 15
+  },
+  {
+    "Drug Name": "LOCOID 0.1% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "VALEANT/BAUSCH                     ",
+    "MostCommonQty": 45
+  },
+  {
+    "Drug Name": "LYRICA 100 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "LYRICA 100 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "LYRICA 150 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "LYRICA 150 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "LYRICA 20 MG/ML ORAL SOLUTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 473
+  },
+  {
+    "Drug Name": "LYRICA 200 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "LYRICA 225 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "LYRICA 25 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "LYRICA 300 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "LYRICA 50 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "LYRICA 50 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "LYRICA 75 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "LYRICA 75 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "LYRICA CR 165 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "LYRICA CR 330 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "LYRICA CR 82.5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "PAIN/INFLAMMATION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "METROCREAM 0.75% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 45
+  },
+  {
+    "Drug Name": "METROGEL TOPICAL 1% GEL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "METROGEL TOPICAL 1% PUMP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 55
+  },
+  {
+    "Drug Name": "METROLOTION TOPICAL 0.75%",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 59
+  },
+  {
+    "Drug Name": "MINOCIN 50 MG PELLETIZED CAP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "INFECTIONS",
+    "Manufacturer": "VALEANT/BAUSCH                     ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "MIRVASO 0.33% GEL PUMP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "MIRVASO 0.33% GEL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "MITIGARE 0.6 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GOUT",
+    "Manufacturer": "HIKMA AMERICAS,                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "MITIGARE 0.6 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GOUT",
+    "Manufacturer": "HIKMA AMERICAS,                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "MITIGARE 0.6 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "GOUT",
+    "Manufacturer": "HIKMA AMERICAS,                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NEXIUM DR 10 MG PACKET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NEXIUM DR 2.5 MG PACKET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NEXIUM DR 20 MG PACKET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NEXIUM DR 20 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NEXIUM DR 20 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NEXIUM DR 20 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NEXIUM DR 40 MG PACKET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NEXIUM DR 40 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NEXIUM DR 40 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NEXIUM DR 40 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NEXIUM DR 5 MG PACKET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NIASPAN ER 1,000 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ABBVIE US LLC                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NIASPAN ER 1,000 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ABBVIE US LLC                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NIASPAN ER 500 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ABBVIE US LLC                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NIASPAN ER 500 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ABBVIE US LLC                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NIASPAN ER 750 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ABBVIE US LLC                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NIASPAN ER 750 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ABBVIE US LLC                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "NOVOLIN 70-30 100 UNIT/ML VIAL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "NOVO NORDISK                       ",
+    "MostCommonQty": 10
+  },
+  {
+    "Drug Name": "NOVOLIN N 100 UNIT/ML VIAL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "NOVO NORDISK                       ",
+    "MostCommonQty": 10
+  },
+  {
+    "Drug Name": "NOVOLIN R 100 UNIT/ML VIAL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "NOVO NORDISK                       ",
+    "MostCommonQty": 10
+  },
+  {
+    "Drug Name": "ODACTRA 12 SQ-HDM SL TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ALLERGIES",
+    "Manufacturer": "ALK-ABELLO, INC                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "ONETOUCH ULTRA BLUE TEST STRP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "LIFESCAN                           ",
+    "MostCommonQty": 25
+  },
+  {
+    "Drug Name": "ONETOUCH ULTRA BLUE TEST STRP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "LIFESCAN                           ",
+    "MostCommonQty": 100
+  },
+  {
+    "Drug Name": "ONETOUCH ULTRA BLUE TEST STRP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "LIFESCAN                           ",
+    "MostCommonQty": 50
+  },
+  {
+    "Drug Name": "ONGLYZA 2.5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "ONGLYZA 2.5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "ONGLYZA 5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "ONGLYZA 5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "ORACEA 40 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "ORALAIR 300 IR SUBLINGUAL TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ALLERGIES",
+    "Manufacturer": "GREER LABS.                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PRADAXA 110 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ANTICOAGULANT",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "PRADAXA 110 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ANTICOAGULANT",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "PRADAXA 150 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ANTICOAGULANT",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "PRADAXA 150 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ANTICOAGULANT",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "PRADAXA 150 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ANTICOAGULANT",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "PRADAXA 75 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ANTICOAGULANT",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "PRADAXA 75 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ANTICOAGULANT",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "PRADAXA 75 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ANTICOAGULANT",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "PRADAXA 75 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ANTICOAGULANT",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "PREMARIN 0.3 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PREMARIN 0.3 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PREMARIN 0.45 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PREMARIN 0.625 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PREMARIN 0.625 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PREMARIN VAGINAL CREAM-APPL",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "VAGINAL DISORDERS",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PREMARIN 0.9 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PREMARIN 1.25 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PREMARIN 1.25 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PREMPHASE 0.625-5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "PREMPRO 0.3 MG-1.5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "PREMPRO 0.45-1.5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "PREMPRO 0.625-2.5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "PREMPRO 0.625-5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HORMONAL SUPPLEMENTATION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "PRISTIQ ER 100 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PRISTIQ ER 100 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PRISTIQ ER 100 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PRISTIQ ER 100 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PRISTIQ ER 25 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PRISTIQ ER 50 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PRISTIQ ER 50 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PRISTIQ ER 50 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PRISTIQ ER 50 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PROAIR HFA 90 MCG INHALER",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "TEVA SPECIALTY                     ",
+    "MostCommonQty": 8.5
+  },
+  {
+    "Drug Name": "PROAIR RESPICLICK 90 MCG INHLR",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "TEVA SPECIALTY                     ",
+    "MostCommonQty": 1
+  },
+  {
+    "Drug Name": "PROTONIX DR 20 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PROTONIX 40 MG SUSPENSION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PROTONIX 40 MG SUSPENSION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PROTONIX DR 40 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HEARTBURN/ULCER DISEASE",
+    "Manufacturer": "WYETH/PFIZER                       ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "PULMICORT 180 MCG FLEXHALER",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 1
+  },
+  {
+    "Drug Name": "PULMICORT 90 MCG FLEXHALER",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 1
+  },
+  {
+    "Drug Name": "QNASL 80 MCG NASAL SPRAY",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ALLERGIES",
+    "Manufacturer": "TEVA SPECIALTY                     ",
+    "MostCommonQty": 8.7
+  },
+  {
+    "Drug Name": "QNASL 80 MCG NASAL SPRAY",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ALLERGIES",
+    "Manufacturer": "TEVA SPECIALTY                     ",
+    "MostCommonQty": 10.6
+  },
+  {
+    "Drug Name": "QNASL CHILDREN'S 40 MCG SPRAY",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ALLERGIES",
+    "Manufacturer": "TEVA SPECIALTY                     ",
+    "MostCommonQty": 4.9
+  },
+  {
+    "Drug Name": "QNASL CHILDREN'S 40 MCG SPRAY",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ALLERGIES",
+    "Manufacturer": "TEVA SPECIALTY                     ",
+    "MostCommonQty": 6.8
+  },
+  {
+    "Drug Name": "QUILLICHEW ER 20 MG CHEW TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "TRIS PHARMA INC                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "QUILLICHEW ER 20 MG CHEW TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "QUILLICHEW ER 30 MG CHEW TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "TRIS PHARMA INC                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "QUILLICHEW ER 30 MG CHEW TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "QUILLICHEW ER 40 MG CHEW TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "TRIS PHARMA INC                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "QUILLICHEW ER 40 MG CHEW TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "QUILLIVANT XR 25 MG/5 ML SUSP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "TRIS PHARMA INC                    ",
+    "MostCommonQty": 120
+  },
+  {
+    "Drug Name": "QUILLIVANT XR 25 MG/5 ML SUSP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "TRIS PHARMA INC                    ",
+    "MostCommonQty": 180
+  },
+  {
+    "Drug Name": "QUILLIVANT XR 25 MG/5 ML SUSP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "TRIS PHARMA INC                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "QUILLIVANT XR 25 MG/5 ML SUSP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "TRIS PHARMA INC                    ",
+    "MostCommonQty": 150
+  },
+  {
+    "Drug Name": "QUILLIVANT XR 25 MG/5 ML SUSP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 180
+  },
+  {
+    "Drug Name": "QUILLIVANT XR 25 MG/5 ML SUSP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "QUILLIVANT XR 25 MG/5 ML SUSP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 120
+  },
+  {
+    "Drug Name": "QUILLIVANT XR 25 MG/5 ML SUSP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 150
+  },
+  {
+    "Drug Name": "QVAR 40 MCG ORAL INHALER",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "TEVA SPECIALTY                     ",
+    "MostCommonQty": 8.7
+  },
+  {
+    "Drug Name": "QVAR 80 MCG ORAL INHALER",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "TEVA SPECIALTY                     ",
+    "MostCommonQty": 8.7
+  },
+  {
+    "Drug Name": "QVAR REDIHALER 40 MCG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "TEVA SPECIALTY                     ",
+    "MostCommonQty": 10.6
+  },
+  {
+    "Drug Name": "QVAR REDIHALER 80 MCG",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "TEVA SPECIALTY                     ",
+    "MostCommonQty": 10.6
+  },
+  {
+    "Drug Name": "RAGWITEK SUBLINGUAL TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ALLERGIES",
+    "Manufacturer": "ALK-ABELLO, INC                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "RAGWITEK SUBLINGUAL TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ALLERGIES",
+    "Manufacturer": "ALK-ABELLO, INC                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "RELPAX 20 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "MIGRAINE HEADACHES",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "RELPAX 20 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "MIGRAINE HEADACHES",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "RELPAX 40 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "MIGRAINE HEADACHES",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "RELPAX 40 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "MIGRAINE HEADACHES",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "RELPAX 40 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "MIGRAINE HEADACHES",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "RIOMET 500 MG/5 ML SOLUTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 300
+  },
+  {
+    "Drug Name": "RIOMET 500 MG/5 ML SOLUTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 300
+  },
+  {
+    "Drug Name": "RIOMET 500 MG/5 ML SOLUTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 300
+  },
+  {
+    "Drug Name": "RIOMET 500 MG/5 ML SOLUTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 300
+  },
+  {
+    "Drug Name": "SAFYRAL TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "CONTRACEPTIVES",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "SAFYRAL TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "CONTRACEPTIVES",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "SERNIVO 0.05% SPRAY",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "PROMIUS/ENCORE                     ",
+    "MostCommonQty": 120
+  },
+  {
+    "Drug Name": "SOOLANTRA 1% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 45
+  },
+  {
+    "Drug Name": "SOOLANTRA 1% CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "SPIRIVA RESPIMAT 1.25 MCG INH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "COPD",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "SPIRIVA RESPIMAT 2.5 MCG INH",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "COPD",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "STENDRA 100 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ERECTILE DYSFUNCTION",
+    "Manufacturer": "MIST PHARMACEUT                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "STENDRA 200 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ERECTILE DYSFUNCTION",
+    "Manufacturer": "MIST PHARMACEUT                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "STENDRA 50 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ERECTILE DYSFUNCTION",
+    "Manufacturer": "MIST PHARMACEUT                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "STIOLTO RESPIMAT INHAL SPRAY",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "COPD",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "STIOLTO RESPIMAT INHAL SPRAY",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "COPD",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "STRIVERDI RESPIMAT INHAL SPRAY",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 4
+  },
+  {
+    "Drug Name": "SYMBICORT 160-4.5 MCG INHALER",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 10.2
+  },
+  {
+    "Drug Name": "SYMBICORT 80-4.5 MCG INHALER",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ASTHMA",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 10.2
+  },
+  {
+    "Drug Name": "SYMJEPI 0.15 MG/0.3 ML SYRINGE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ANAPHYLAXIS",
+    "Manufacturer": "SANDOZ                             ",
+    "MostCommonQty": 2
+  },
+  {
+    "Drug Name": "SYMJEPI 0.3 MG/0.3 ML SYRINGE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ANAPHYLAXIS",
+    "Manufacturer": "SANDOZ                             ",
+    "MostCommonQty": 2
+  },
+  {
+    "Drug Name": "SYNJARDY 12.5-1,000 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "SYNJARDY 12.5-1,000 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "SYNJARDY 12.5-500 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "SYNJARDY 12.5-500 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "SYNJARDY 5-500 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "SYNJARDY 5-500 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "SYNJARDY 5-1,000 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "SYNJARDY 5-1,000 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "SYNJARDY XR 10-1,000 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "SYNJARDY XR 10-1,000 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "SYNJARDY XR 12.5-1,000 MG TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "SYNJARDY XR 12.5-1,000 MG TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "SYNJARDY XR 25-1,000 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "SYNJARDY XR 25-1,000 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "SYNJARDY XR 5-1,000 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "SYNJARDY XR 5-1,000 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "TIGLUTIK 50 MG/10 ML SUSP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "MENTAL/NEURO DISORDERS",
+    "Manufacturer": "ITF PHARMA, INC                    ",
+    "MostCommonQty": 600
+  },
+  {
+    "Drug Name": "TOUJEO SOLOSTAR 300 UNIT/ML",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "SANOFI-AVENTIS                     ",
+    "MostCommonQty": 4.5
+  },
+  {
+    "Drug Name": "TOVIAZ ER 4 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "URINARY DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "TOVIAZ ER 8 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "URINARY DISORDERS",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "TRADJENTA 5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "TRADJENTA 5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "TRADJENTA 5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "BOEHRINGER ING.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "TRELEGY ELLIPTA 100-62.5-25",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "COPD",
+    "Manufacturer": "GLAXOSMITHKLINE                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "TRICOR 145 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ABBVIE US LLC                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "TRICOR 48 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ABBVIE US LLC                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "TRILIPIX DR 135 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ABBVIE US LLC                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "TRILIPIX DR 45 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "ABBVIE US LLC                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "TRI-LUMA CREAM",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "TRINTELLIX 10 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "TAKEDA PHARMACE                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "TRINTELLIX 20 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "TAKEDA PHARMACE                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "TRINTELLIX 5 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "TAKEDA PHARMACE                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "TRUE METRIX GLUCOSE TEST STRIP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "Y",
+    "MCI": "DIABETES",
+    "Manufacturer": "NIPRO DIAG/TRIV                    ",
+    "MostCommonQty": 50
+  },
+  {
+    "Drug Name": "TRUE METRIX GLUCOSE TEST STRIP",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "Y",
+    "MCI": "DIABETES",
+    "Manufacturer": "NIPRO DIAG/TRIV                    ",
+    "MostCommonQty": 100
+  },
+  {
+    "Drug Name": "TRULICITY 0.75 MG/0.5 ML PEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 2
+  },
+  {
+    "Drug Name": "TRULICITY 0.75 MG/0.5 ML PEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 2
+  },
+  {
+    "Drug Name": "TRULICITY 1.5 MG/0.5 ML PEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 2
+  },
+  {
+    "Drug Name": "TRULICITY 1.5 MG/0.5 ML PEN",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ELI LILLY & CO.                    ",
+    "MostCommonQty": 2
+  },
+  {
+    "Drug Name": "ULTRAVATE 0.05% LOTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ULTRAVATE 0.05% LOTION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ULTRAVATE X CREAM COMBO PACK",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 275
+  },
+  {
+    "Drug Name": "ULTRAVATE X OINTMENT COMBO PAC",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "RANBAXY/SUN PHA                    ",
+    "MostCommonQty": 275
+  },
+  {
+    "Drug Name": "VASCEPA 0.5 GM CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "AMARIN PHARMA I                    ",
+    "MostCommonQty": 240
+  },
+  {
+    "Drug Name": "VASCEPA 1 GM CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "HIGH BLOOD CHOLESTEROL",
+    "Manufacturer": "AMARIN PHARMA I                    ",
+    "MostCommonQty": 120
+  },
+  {
+    "Drug Name": "VECTICAL 3 MCG/G OINTMENT",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "SKIN CONDITIONS",
+    "Manufacturer": "GALDERMA LABORA                    ",
+    "MostCommonQty": 100
+  },
+  {
+    "Drug Name": "V-GO 20 DISPOSABLE DEVICE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "VALERITAS, INC.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "V-GO 30 DISPOSABLE DEVICE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "VALERITAS, INC.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "V-GO 40 DISPOSABLE DEVICE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "VALERITAS, INC.                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "VIAGRA 100 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ERECTILE DYSFUNCTION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "VIAGRA 100 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ERECTILE DYSFUNCTION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "VIAGRA 100 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ERECTILE DYSFUNCTION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "VIAGRA 100 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ERECTILE DYSFUNCTION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "VIAGRA 25 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ERECTILE DYSFUNCTION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "VIAGRA 50 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ERECTILE DYSFUNCTION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "VIAGRA 50 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ERECTILE DYSFUNCTION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "VIAGRA 50 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ERECTILE DYSFUNCTION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "VIAGRA 50 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ERECTILE DYSFUNCTION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 6
+  },
+  {
+    "Drug Name": "VSL#3 CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIARRHEA",
+    "Manufacturer": "SIGMA-TAU/ALFAS                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "VSL#3 PACKET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ALTERNATIVE THERAPIES",
+    "Manufacturer": "SIGMA-TAU/ALFAS                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "VSL#3 DS PACKET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIARRHEA",
+    "Manufacturer": "SIGMA-TAU/ALFAS                    ",
+    "MostCommonQty": 20
+  },
+  {
+    "Drug Name": "VYVANSE 10 MG CHEWABLE TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "SHIRE US INC.                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "VYVANSE 10 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "SHIRE US INC.                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "VYVANSE 20 MG CHEWABLE TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "SHIRE US INC.                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "VYVANSE 20 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "SHIRE US INC.                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "VYVANSE 30 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "SHIRE US INC.                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "VYVANSE 30 MG CHEWABLE TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "SHIRE US INC.                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "VYVANSE 40 MG CHEWABLE TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "SHIRE US INC.                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "VYVANSE 40 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "SHIRE US INC.                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "VYVANSE 50 MG CHEWABLE TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "SHIRE US INC.                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "VYVANSE 50 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "SHIRE US INC.                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "VYVANSE 60 MG CHEWABLE TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "SHIRE US INC.                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "VYVANSE 60 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "SHIRE US INC.                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "VYVANSE 70 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ATTENTION DISORDERS",
+    "Manufacturer": "SHIRE US INC.                      ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "XHANCE 93 MCG NASAL SPRAY",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "ALLERGIES",
+    "Manufacturer": "OPTINOSE US, IN                    ",
+    "MostCommonQty": 16
+  },
+  {
+    "Drug Name": "XIGDUO XR 10 MG-1,000 MG TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "XIGDUO XR 10 MG-500 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "XIGDUO XR 2.5 MG-1,000 MG TAB",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "XIGDUO XR 5 MG-500 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "XIGDUO XR 5 MG-1,000 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DIABETES",
+    "Manufacturer": "ASTRAZENECA                        ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "XIMINO ER 135 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "INFECTIONS",
+    "Manufacturer": "SUN PHARM/JOURN                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "XIMINO ER 45 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "INFECTIONS",
+    "Manufacturer": "SUN PHARM/JOURN                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "XIMINO ER 90 MG CAPSULE",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "INFECTIONS",
+    "Manufacturer": "SUN PHARM/JOURN                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "XOFLUZA 20 MG TAB (40 MG DOSE)",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "VIRAL INFECTIONS",
+    "Manufacturer": "GENENTECH, INC.                    ",
+    "MostCommonQty": 2
+  },
+  {
+    "Drug Name": "XOFLUZA 40 MG TAB (80 MG DOSE)",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "VIRAL INFECTIONS",
+    "Manufacturer": "GENENTECH, INC.                    ",
+    "MostCommonQty": 2
+  },
+  {
+    "Drug Name": "YASMIN 28 TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "CONTRACEPTIVES",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "YASMIN 28 TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "CONTRACEPTIVES",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "YAZ 28 TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "CONTRACEPTIVES",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "YAZ 28 TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "CONTRACEPTIVES",
+    "Manufacturer": "BAYER,PHARM DIV                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "ZOLOFT 100 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "ZOLOFT 100 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "ZOLOFT 20 MG/ML ORAL CONC",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 60
+  },
+  {
+    "Drug Name": "ZOLOFT 25 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "ZOLOFT 50 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "ZOLOFT 50 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "DEPRESSION",
+    "Manufacturer": "PFIZER US PHARM                    ",
+    "MostCommonQty": 30
+  },
+  {
+    "Drug Name": "ZYVOX 100 MG/5 ML SUSPENSION",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "INFECTIONS",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 150
+  },
+  {
+    "Drug Name": "ZYVOX 600 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "INFECTIONS",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "ZYVOX 600 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "INFECTIONS",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "ZYVOX 600 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "INFECTIONS",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 28
+  },
+  {
+    "Drug Name": "ZYVOX 600 MG TABLET",
+    "REPACKAGER_IND": "N",
+    "PRIVATE_LABELER_IND": "N",
+    "MCI": "INFECTIONS",
+    "Manufacturer": "PHARMACI/PFIZER                    ",
+    "MostCommonQty": 28
+  }
+]

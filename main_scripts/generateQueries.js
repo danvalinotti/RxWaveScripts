@@ -43,27 +43,30 @@ function generateDrugMasterQueries() {
 
 async function generateDrugRequestQueries() {
     const drugMasterList = fs.readFileSync('drugMaster.json');
+    const quantityList = fs.readFileSync('drugQuantity.json');
     let index = 475744;
     let drugArr = JSON.parse(drugMasterList.toString());
+    let quantities = JSON.parse(quantityList.toString());
     let zips = ['07083', '30062', '60657', '75034', '92648'];
     let queries = [];
-    for (const drug of drugArr) {
-        for (let j= 0; j < drug.DrugIDs.length; j++) {
+    for (let k = 0; k < drugArr.length; k++) {
+        for (let j= 0; j < drugArr[k].DrugIDs.length; j++) {
             for (let i = 0; i < 7; i++) {
-                let name = drug.DrugName;
-                let quantity = drug.Quantity;
-                let goodRxId = drug.GoodRxID;
+                let name = drugArr[k].DrugName;
+                let quantity = drugArr[k].Quantity;
+                let goodRxId = drugArr[k].GoodRxID;
                 if (i === 5) {
-                    name = drug.BlinkDrugName === "" ? drug.DrugName : drug.BlinkDrugName;
-                    goodRxId = drug.BlinkDrugID;
+                    name = drugArr[k].BlinkDrugName === "" ? drugArr[k].DrugName : drugArr[k].BlinkDrugName;
+                    goodRxId = drugArr[k].BlinkDrugID;
                 } else if (i === 2) {
-                    name = drug.WellRxName;
-                    quantity = drug.WellRxQuantity;
+                    name = drugArr[k].WellRxName;
+                    quantity = drugArr[k].WellRxQuantity;
                 }
+                console.log(quantities[k]);
                 const query = `INSERT INTO public.drug_request(
                         id, brand_indicator, drug_id, drug_name, gsn, latitude, longitude, ndc, program_id, quantity, zipcode, dosage_strength, drug_type, good_rx_id)
-                        VALUES (${index}, 'BRAND', '${drug.DrugIDs[j]}', '${name}', '${drug.GSN}', '${zipcodes.lookup(zips[j]).latitude}', '${zipcodes.lookup(zips[j]).longitude}', '${drug.NDC}', 
-                            '${i}', '${quantity}', '${zips[j]}', '${drug.DosageStrength}', '${drug.DrugForm}', '${goodRxId}');`;
+                        VALUES (${index}, '${i === 1 ? 'BRAND_WITH_GENERIC' : 'BRAND'}', '${drugArr[k].DrugIDs[j]}', '${name}', '${drugArr[k].GSN}', '${zipcodes.lookup(zips[j]).latitude}', '${zipcodes.lookup(zips[j]).longitude}', '${drugArr[k].NDC}', 
+                            '${i}', '${i === 6 ? drugArr[k].Quantity : quantities[k].MostCommonQty}', '${zips[j]}', '${drugArr[k].DosageStrength}', '${drugArr[k].DrugForm}', '${goodRxId}');`;
                 client.query(query, (err, res) => {
                     if (err) {
                         console.log(err);
