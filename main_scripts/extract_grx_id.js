@@ -1,7 +1,7 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
 const notifier = require('node-notifier');
-const generateUrl = require('./genUrl.js');
+const generateUrl = require('./genGoodRxUrl.js');
 const mongoose = require('mongoose');
 mongoose.connect('mongodb://54.81.21.172:27017/rxwave_testing', {
     useNewUrlParser: true,

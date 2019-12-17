@@ -4,7 +4,7 @@
   "description": "",
   "main": "test_suite.js",
   "scripts": {
-    "start": "NODE_ENV=dev node nextDrugs.js",
+    "start": "NODE_ENV=dev node main_scripts/nextDrugs.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
