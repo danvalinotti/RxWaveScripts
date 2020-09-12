@@ -23,7 +23,7 @@
     "fetch-retry": "^2.2.3",
     "https-proxy-agent": "^3.0.1",
     "mongoose": "^5.7.7",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "node-notifier": "^6.0.0",
     "pg": "^7.12.1",
     "request": "^2.88.0",
